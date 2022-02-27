@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the forme and manner of publick thanksgiving</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81356</idno>
+            <idno type="STC">Wing D1157</idno>
+            <idno type="STC">Thomason E171_16</idno>
+            <idno type="STC">ESTC R3462</idno>
+            <idno type="EEBO-CITATION">99872383</idno>
+            <idno type="PROQUEST">99872383</idno>
+            <idno type="VID">157049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157049)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E171[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the forme and manner of publick thanksgiving</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Barnard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157049:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION OF THE FORME AND Manner of publick <hi>Thanksgiving.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Barnard Alſop,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157049:2"/>
+            <pb n="1" facs="tcp:157049:2"/>
+            <head>
+               <figure>
+                  <figDesc>decorative flourish at top of page</figDesc>
+                  <p>C R</p>
+               </figure> 
+               <hi>A DESCRIPTION OF</hi> The Forme and Manner of publicke Thinkeſgiving.</head>
+            <head type="sub">FIrſt, to ſhew what Thanksgiving is, And ſecondly the ſeverall Branches in it.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hankſgiving is an Ac<g ref="char:EOLhyphen"/>knowledging, &amp; con<g ref="char:EOLhyphen"/>feſſing with gladneſſe of the Benefits and Deliverances of God, both towards our ſelves, and others, to the Praiſe of His Name.</p>
+            <pb n="2" facs="tcp:157049:3"/>
+            <list>
+               <head>The branches in it are.</head>
+               <item>1. <hi>Remembrance of the good done.</hi>
+               </item>
+               <item>2. <hi>Mention of that good.</hi>
+               </item>
+               <item>3. <hi>Confeſſing GOD to be the Author and Giver of it.</hi>
+               </item>
+               <item>4. <hi>Chearefulneſſe.</hi>
+               </item>
+            </list>
+            <p n="1">1. <hi>Thanksgiving is an acknowledging and confeſſing of Benefits, and Deliverances:</hi> Thus when <hi>David</hi> in<g ref="char:EOLhyphen"/>cited the People to a publick <hi>Thanksgiving,</hi> he cals upon <hi>Iſrael,</hi> and upon the houſe of <hi>Aron,</hi> and upon all that feare the Lord, to <hi>acknowledge</hi> and <hi>confeſſe</hi> Gods <hi>benefits and Deliverances</hi> wrought for them. <hi>Pſal.</hi> 118.2, 3, 4. <hi>verſes,</hi> and have not we the like oc<g ref="char:EOLhyphen"/>caſion to <hi>confeſſe and acknowledge the benefits &amp; de<g ref="char:EOLhyphen"/>liverances of God towards us,</hi> in working ſo great a <hi>work</hi> for us, who could have wrought this <hi>peace and unity</hi> between us and amongſt us, but the Lord? <hi>Let us look upon thoſe diſtreſſed Churches beyond the ſeas, and upon what might have befallen us, had not the Lord wrought for us; and then wee cannot chuſe, but muſt needs acknowledge &amp; confeſſe, the great benefits and deliverances that God hath wrought amongſt us.</hi>
+            </p>
+            <p n="2">2. This <hi>acknowledging</hi> and confeſſing to God, it is with gladneſſe. Thus when the Lord delivered Sion then was our mouths filled with laughter, and our tongues with ſinging <hi>(ſaith David) the Lord hath done great things for us, whereof wee are glad (ſaith he)</hi> Pſal. 126.1, 2, 3. <hi>verſes,</hi> and have not we as great cauſe to rejoyce before the Lord, to ſing, &amp; be glad, for the great <hi>deliverances y<hi rend="sup">e</hi>
+               </hi> the Lord hath wrought for us: ſurely we have very ſtony &amp; had hearts, if we be not touched with joy before the Lord for the ſame. 3. It is for Gods <hi>deliverances</hi> both towards our ſelves, &amp; others: <hi>The Apoſtle exhorteth that thanksgiving be made for all men.</hi> 1 <hi>Tim.</hi> 2.1. Let us
+<pb n="3" facs="tcp:157049:3"/>but conſider Gods gratious mercies, &amp; <hi>deliverances towards us,</hi> and towards our whole Land; yea &amp; to<g ref="char:EOLhyphen"/>wards our <hi>neighbor-united Nations,</hi> we had not only Rumors of <hi>VVarres,</hi> but ſhedding of bloud on both ſides, <hi>warres were begun, the ſubjects of one King and people of one faith, of one Religion, we &amp; our brethren were banded one againſt another; here was begun a ſad Tragedy, here was Iſaake at the point of death, in the worlds apprehenſion, &amp; to be admired is the goodneſſe of the Lord, that where as before this time, more plenty of blood might have binſhed in our ſtreetes, then wee have had of raine; yet the Lord hath eſtabliſhed peace. Ever bleſſed be our gratious God, that we,</hi> &amp; <hi>they, were not the ruine and deſtruction each of other? This was the mighty hand of God, Oh let us therefore praiſe his holy Name.</hi>
+            </p>
+            <p n="4">4. <hi>Thanksgiving</hi> ought to be to the praiſe of the name of God; therefore <hi>(ſaith David)</hi> I <hi>will be glad and rejoyce in thee, I will ſing praiſe to thy name, O thou moſt high.</hi> Pſal. 9.2. The day of <hi>Thankſgiving</hi> is not a day of <hi>carnall pleaſure, &amp; fleſhly delight,</hi> to re<g ref="char:EOLhyphen"/>create the body with the pleaſures and delights of the word, but after a ſpirituall manner to rejoyce in the Lord, &amp; to ſing Pſalms &amp; praiſes to his name, &amp; to declare the wonders that he hath wrought for <hi>us.</hi> There are ſome (ſaith <hi>Hierome to Nepotianus</hi>) which contrary to the common <hi>order, and nature of men, in their thanksgiving and faſting, will neither drink wa<g ref="char:EOLhyphen"/>ter, nor eat bread, but ſeek for more delicate ſuppings, and ſweet meats, looking to be praiſed for ſuch faſting: Fye for ſhame, doe we not bluſh, at ſuch fooliſhneſſe, are we not weary of ſuch ſuperſtition.</hi>
+            </p>
+            <p>But to come to the <hi>branches</hi> which are in <hi>thankſ<g ref="char:EOLhyphen"/>giving.</hi> 1. Remembrance of the good done. <hi>Remem<g ref="char:EOLhyphen"/>ber the marvellous works which the Lord hath done, (ſaith David) his wonders and the Iudgments of his
+<pb n="4" facs="tcp:157049:4"/>mouth.</hi> Pſal. 105.5. The whole Pſalme is excellent concerning this particular, in the ſtory of Gods pro<g ref="char:EOLhyphen"/>vidence over his <hi>people. And thus we to celebrate a thankſgiving to the Lord, wee muſt remember that good that the Lord hath done for us, we muſt ſuffer our hearts to be enlarged in the remembrance of his mer<g ref="char:EOLhyphen"/>cies: and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his we may doe by looking upon our ſelves, as we were before Deliverance, and under the Croſſe; when we were al, ſo diſtracted &amp; troubled, that we knew not what to doe: with troubles abroad, and troubles at home, and fallen even into the mouth of war &amp; ruine, ready to fall before the ſword: O let our hearts be tou<g ref="char:EOLhyphen"/>ched with the thoughts hereof, and remember that the Lord hath delivered us, and graciouſly overcome all theſe dangers for us, and now our wars are turned into peace; for which let us praiſe the Lord, and not forget ſuch great mercies.</hi> 2. Mention of that good done, <hi>David ſaith, My Tongue (ſayes he) ſhall talk of thy righteouſneſſe all the day long, for they are confounded, for they are brought unto ſhame, that ſeek my hurt.</hi> Pſ. 71.24. Thus may we ſay with holy <hi>David here,</hi> O our Lord God, we will talk, &amp; make mention of thy <hi>righteouſnes,</hi> all the day long, we will celebrate a day of <hi>thanksgiving</hi> to thy name, for the <hi>mercies,</hi> and the gracious <hi>Deliverances</hi> which thou haſt wrought for us, &amp; haſt brought thoſe <hi>wicked enemies</hi> of thine, &amp; ors (that ſought to devoure us) to ſhame and confu<g ref="char:EOLhyphen"/>ſion, therfore our lips, ſhall greatly rejoyce, and ſing unto thee, &amp; our ſoules which thou haſt redeemed ſhall praiſe thee. 3. Confeſſing God to be the Au<g ref="char:EOLhyphen"/>thor and Giver of all our <hi>bleſſings, deliverances, and benefits.</hi> For as <hi>David ſaith,</hi> it is in vain to riſe early and to ſit up late, and to eat the <hi>bread of ſorrowes,</hi> for God giveth <hi>his beloved ſleepe.</hi> Pſal. 127.2. It is not all the plotting, &amp; contriving that a ſtate can do, it is not the policy of all the wits of the whole King<g ref="char:EOLhyphen"/>dome
+<pb n="5" facs="tcp:157049:4"/>that could have effected this gratious pacifi<g ref="char:EOLhyphen"/>cation, &amp; wrought theſe great <hi>bleſſings for us, had not the Lord given us reſt;</hi> let us aſcribe it not to man, for God is the Author of all our good; <hi>therefore let us labour to be acquainted with Gods goodneſſe, &amp; ren<g ref="char:EOLhyphen"/>der thankes unto him, and praiſe his holy name of his mercyes towards as.</hi> 4. The laſt b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anch is <hi>Cheareful<g ref="char:EOLhyphen"/>neſſe</hi> being glad of an occaſion to praiſe him, &amp; doing it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ladly with joy, <hi>David</hi> could ſing, <hi>the voyce of re<g ref="char:EOLhyphen"/>joycing and ſalvation, is in the Tabernacles of the righ<g ref="char:EOLhyphen"/>teous the right hand of the Lord doth valiautly.</hi> Pſal. 118.15. And hath not the right gand of the Lord done valiantly for us. to reduce us ſo graciouſly, &amp; to confound, and put to ſhame, all the <hi>Enemyes</hi> of our <hi>peace:</hi> O then let the voyce of rejoycing be in our <hi>Churches,</hi> for the great ſalvation that GOD hath wrought for us. This joy which is a ſweet motion of the ſoule, ariſing from the <hi>goodneſſe, and mercy of God wrought for us,</hi> not a worldly joy ariſing from <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> but ſuch a joy as is ſpirituall, and heavenly, even ſuch a joy <hi>as Chriſt would have to be full in his mem<g ref="char:EOLhyphen"/>bers,</hi> Joh. 15.11. <hi>To ſeeke the Lord and his ſtrength, and to ſeeke after his face continually.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> It may be ſome will ſay? what needs ſuch a ſtir? Do not we know how to faſt, &amp; how to pray, and how to give God <hi>thanks?</hi> Do not we know how to ſeek the Lord, without ſo much adoe?</p>
+            <p>
+               <hi>Anſ.</hi> To whom I anſwer with <hi>Calvins</hi> own words, on Pſal. 105. <hi>The ſeeking of the Lord (ſaith he) is pro<g ref="char:EOLhyphen"/>perly the marke whereby the faithfull are diſcerned from the worldlings:</hi> Howbeit they come farre ſhort as yet in ſeeking him as they ought to do: &amp; there<g ref="char:EOLhyphen"/>fore they have need of ſpurs continually wherewith to prick them forward, although they be running of their own accord; for they be neither gadding <hi>per<g ref="char:EOLhyphen"/>ſons,</hi> nor altogether <hi>dullards,</hi> nor ſuch as be faſt tyed
+<pb n="6" facs="tcp:157049:5"/>to <hi>Earthly Dregs,</hi> whom the <hi>Prophet</hi> ſtirreth up to ſeek God, but ſuch as with a forward mind went a<g ref="char:EOLhyphen"/>bout it already: Verily <hi>becauſe he ſeeth them letted with many hinderances, ſo as they cannot runne faſt e<g ref="char:EOLhyphen"/>nough?</hi> What neceſſity then is there think you to rouze up thoſe <hi>Muckwormes,</hi> &amp; <hi>Earthly minded</hi> men to do their duty to God, <hi>as becommeth Chriſti<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> leſt <hi>pleaſure, profit,</hi> or <hi>pride</hi> hinder them, and <hi>choak their devotion,</hi> and ſo in ſtead of celebrating a day of <hi>thanksgiving</hi> to the Lord, <hi>they offer the ſacri<g ref="char:EOLhyphen"/>fice of fooles, and diſhonour the name of God, not regar<g ref="char:EOLhyphen"/>ding the ſpirituality of his worſhip?</hi> The worſhip of God conſiſteth not in dead <hi>Ceremonies,</hi> but chiefly in the ſacrifice of praiſe, God requireth alſo, <hi>that wee be chearefully thankefull to him, and doe it willingly.</hi> Therefore <hi>David called upon the people to make haſt to come into Gods preſence,</hi> Pſal. 95. Which is a thing very needfull to be done in ſo great <hi>ſlothfulneſſe,</hi> as is bred in us by Nature, at ſuch times as we are cal<g ref="char:EOLhyphen"/>led to give God <hi>thankes.</hi> Now like as the Prophet doth nip the <hi>ſlothfulneſſe</hi> of the <hi>people</hi> in old time of ſinging praiſe unto GOD: ſo let us know that we have need of the ſame ſpur at this day alſo, becauſe we be no leſſe <hi>unthankefull</hi> then they were: and let us ſtir up our devotion when we come into the <hi>Con<g ref="char:EOLhyphen"/>gregation,</hi> and conſider that we are in Gods <hi>preſence,</hi> there is nothing more to be wiſhed, then to offer in Gods <hi>preſence</hi> the Sacrifice that God avoucheth to be moſt acceptable unto him; God is preſent before our faces as a witneſſe; therefore let all thoſe that feare the Lord conſider with themſelves that they ſhall not loſe their labour.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
